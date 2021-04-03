@@ -2,19 +2,19 @@ import React from 'react';
 import BusinessList from './BusinessList.css';
 import Business from '../Business/Business.js';
 
-const BusinessList = () => {
-    render() {
-        return(
-            <div className="BusinessList">
-                <Business />
-                <Business />
-                <Business />
-                <Business />
-                <Business />
-                <Business />
-            </div>
-        )
-    }
+class BusinessList extends React.Component {
+	render() {
+		return (
+			<div className="BusinessList">
+				<Business />
+				<Business />
+				<Business />
+				<Business />
+				<Business />
+				<Business />
+			</div>
+		);
+	}
 }
 
-export default BusinessList
+export default BusinessList;
