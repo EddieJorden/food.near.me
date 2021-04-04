@@ -23,17 +23,19 @@ class Business extends React.Component {
 						alt=""
 					/>
 				</div>
-				<h2>{Business.name}</h2>
+				<h2>{business.name}</h2>
 				<div className="Business-information">
 					<div className="Business-address">
-						<p>{Business.address}</p>
-						<p>{Business.city}</p>
-						<p>{Business.state}</p>
+						<p>{business.address}</p>
+						<p>{business.city}</p>
+						<p>
+							{business.state}, {business.zipCode}
+						</p>
 					</div>
 					<div className="Business-reviews">
-						<h3>{Business.category}</h3>
-						<h3 className="rating">{Business.rating} stars</h3>
-						<p>{Business.reviewCount} reviews</p>
+						<h3>{business.category}</h3>
+						<h3 className="rating">4.5 stars}</h3>
+						<p>{business.rating}</p>
 					</div>
 				</div>
 			</div>
