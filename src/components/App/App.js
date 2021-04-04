@@ -1,13 +1,18 @@
-// import logo from './logo.svg';
 import React from 'react';
 import './App.css';
-import BusinessList from './components/BusinessList/BusinessList.js';
-import SearchBar from './components/SearchBar/SearchBar.js';
+import SearchBar from '../SearchBar/SearchBar';
+import BusinessList from '../BusinessList/BusinessList';
 
-function App() {
-	return (
-
-	);
+class App extends React.Component {
+	render() {
+		return (
+			<div className="App">
+				<h1>ravenous</h1>
+				<SearchBar />
+				<BusinessList />
+			</div>
+		);
+	}
 }
 
 export default App;
