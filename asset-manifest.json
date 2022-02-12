@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/EddieJorden/food.near.me/static/css/main.1147753e.chunk.css",
-    "main.js": "/EddieJorden/food.near.me/static/js/main.93705060.chunk.js",
-    "main.js.map": "/EddieJorden/food.near.me/static/js/main.93705060.chunk.js.map",
-    "runtime-main.js": "/EddieJorden/food.near.me/static/js/runtime-main.b9e5d288.js",
-    "runtime-main.js.map": "/EddieJorden/food.near.me/static/js/runtime-main.b9e5d288.js.map",
-    "static/js/2.d66bee7c.chunk.js": "/EddieJorden/food.near.me/static/js/2.d66bee7c.chunk.js",
-    "static/js/2.d66bee7c.chunk.js.map": "/EddieJorden/food.near.me/static/js/2.d66bee7c.chunk.js.map",
-    "static/js/3.24b11e86.chunk.js": "/EddieJorden/food.near.me/static/js/3.24b11e86.chunk.js",
-    "static/js/3.24b11e86.chunk.js.map": "/EddieJorden/food.near.me/static/js/3.24b11e86.chunk.js.map",
-    "index.html": "/EddieJorden/food.near.me/index.html",
-    "static/css/main.1147753e.chunk.css.map": "/EddieJorden/food.near.me/static/css/main.1147753e.chunk.css.map",
-    "static/js/2.d66bee7c.chunk.js.LICENSE.txt": "/EddieJorden/food.near.me/static/js/2.d66bee7c.chunk.js.LICENSE.txt",
-    "static/media/SearchBar.css": "/EddieJorden/food.near.me/static/media/background_search_mobile.a6f8ee50.jpg"
+    "main.css": "/food.near.me/static/css/main.1067f672.chunk.css",
+    "main.js": "/food.near.me/static/js/main.93705060.chunk.js",
+    "main.js.map": "/food.near.me/static/js/main.93705060.chunk.js.map",
+    "runtime-main.js": "/food.near.me/static/js/runtime-main.77a90cae.js",
+    "runtime-main.js.map": "/food.near.me/static/js/runtime-main.77a90cae.js.map",
+    "static/js/2.d66bee7c.chunk.js": "/food.near.me/static/js/2.d66bee7c.chunk.js",
+    "static/js/2.d66bee7c.chunk.js.map": "/food.near.me/static/js/2.d66bee7c.chunk.js.map",
+    "static/js/3.24b11e86.chunk.js": "/food.near.me/static/js/3.24b11e86.chunk.js",
+    "static/js/3.24b11e86.chunk.js.map": "/food.near.me/static/js/3.24b11e86.chunk.js.map",
+    "index.html": "/food.near.me/index.html",
+    "static/css/main.1067f672.chunk.css.map": "/food.near.me/static/css/main.1067f672.chunk.css.map",
+    "static/js/2.d66bee7c.chunk.js.LICENSE.txt": "/food.near.me/static/js/2.d66bee7c.chunk.js.LICENSE.txt",
+    "static/media/SearchBar.css": "/food.near.me/static/media/background_search_mobile.a6f8ee50.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b9e5d288.js",
+    "static/js/runtime-main.77a90cae.js",
     "static/js/2.d66bee7c.chunk.js",
-    "static/css/main.1147753e.chunk.css",
+    "static/css/main.1067f672.chunk.css",
     "static/js/main.93705060.chunk.js"
   ]
 }
