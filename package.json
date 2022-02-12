@@ -2,7 +2,7 @@
   "name": "food.near.me",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/EddieJorden/food.near.me",
+  "homepage": "https://eddiejorden.github.io/food.near.me/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
