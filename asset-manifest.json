@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/food.near.me/static/css/main.1067f672.chunk.css",
-    "main.js": "/food.near.me/static/js/main.93705060.chunk.js",
-    "main.js.map": "/food.near.me/static/js/main.93705060.chunk.js.map",
+    "main.css": "/food.near.me/static/css/main.ebaa8648.chunk.css",
+    "main.js": "/food.near.me/static/js/main.0fcd8dec.chunk.js",
+    "main.js.map": "/food.near.me/static/js/main.0fcd8dec.chunk.js.map",
     "runtime-main.js": "/food.near.me/static/js/runtime-main.77a90cae.js",
     "runtime-main.js.map": "/food.near.me/static/js/runtime-main.77a90cae.js.map",
     "static/js/2.d66bee7c.chunk.js": "/food.near.me/static/js/2.d66bee7c.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.24b11e86.chunk.js": "/food.near.me/static/js/3.24b11e86.chunk.js",
     "static/js/3.24b11e86.chunk.js.map": "/food.near.me/static/js/3.24b11e86.chunk.js.map",
     "index.html": "/food.near.me/index.html",
-    "static/css/main.1067f672.chunk.css.map": "/food.near.me/static/css/main.1067f672.chunk.css.map",
+    "static/css/main.ebaa8648.chunk.css.map": "/food.near.me/static/css/main.ebaa8648.chunk.css.map",
     "static/js/2.d66bee7c.chunk.js.LICENSE.txt": "/food.near.me/static/js/2.d66bee7c.chunk.js.LICENSE.txt",
-    "static/media/SearchBar.css": "/food.near.me/static/media/background_search_mobile.a6f8ee50.jpg"
+    "static/media/SearchBar.css": "/food.near.me/static/media/food-near-me-mobile-wallpaper.1f88f4ee.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.77a90cae.js",
     "static/js/2.d66bee7c.chunk.js",
-    "static/css/main.1067f672.chunk.css",
-    "static/js/main.93705060.chunk.js"
+    "static/css/main.ebaa8648.chunk.css",
+    "static/js/main.0fcd8dec.chunk.js"
   ]
 }
